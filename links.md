@@ -1,0 +1,3 @@
+- https://www.regisphilibert.com/blog/
+- https://www.awesome-hugo.dev/
+- 
